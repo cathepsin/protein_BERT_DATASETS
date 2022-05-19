@@ -11,3 +11,5 @@
 <h1>percent_below10.txt</h1>
 <p>A dataset containing a filtered version of the PDB. Included sequences are those where no more than 10% of the residues in a single sequence
   are a part of an alpha helix, according to their <a href=https://swift.cmbi.umcn.nl/gv/dssp/>DSSP output</a></p>
+<h1>just_helix.txt</h1>
+<p>A dataset containing a filtered version of the PDB. Included are only helical regions more than 40 residues long from all proteins.</p>
